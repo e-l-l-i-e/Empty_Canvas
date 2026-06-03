@@ -1,2 +1,2 @@
 # Empty_Canvas
-playspace for me to learn how to use github and work on google calendar/canvas modifications
+google calendar modifications and improvements using python google api.
